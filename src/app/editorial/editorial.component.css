@@ -1,0 +1,22 @@
+.row1{
+    display: inline;
+}
+.head p{
+    text-align: center;
+    font-size: 80px;
+    margin-top: 0px;
+    margin-bottom: 100px;
+
+}
+
+a{
+    text-decoration: none;
+    color:black;
+    font-weight: lighter;
+    font-size: 20px;
+   
+}
+
+/* .head{
+    top: 100px;
+} */

@@ -1,0 +1,36 @@
+.img{
+    
+    position:fixed;
+    width: 90%;
+    margin:0px 50px;
+}
+h2{
+    position: absolute;
+    z-index: 1;
+    color:white;
+    font-size: 60px;
+    margin: 400px;
+    text-align: center;
+}
+h3{
+    position: absolute;
+    z-index: 1;
+    color:white;
+    font-size: 60px;
+    margin: 470px;
+    text-align: center;
+}
+.vm a{
+    border:1px solid white;
+    position: absolute;
+    z-index: 1;
+    color:rgb(224, 217, 217);
+    margin:550px;
+    font-size: 30px;
+    margin-left:580px;
+    text-align: center;
+    text-decoration: none;
+}
+.vm a:hover{
+background-color:#253145;
+}
